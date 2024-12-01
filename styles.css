@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&display=swap');
+a{
+    text-decoration: none;
+    color: white;
+}   
+header{
+    list-style-type: none;
+    background-color: #1C2026;
+    justify-content: space-around;
+    position: relative;
+    text-align: right;
+   padding: 10px;
+}
+li {
+    display: inline;
+    text-align: right;
+    margin: 10px;
+    font-size: 120%; 
+}
+
+.malejprouzek{
+    padding: 20px;
+    background-color: #465059;
+}
+.text{
+    font-family: Lugrasimo;
+    margin-top: 175px;
+    margin-left: 400px;
+    text-align: center;
+}
+h1{
+    font-size: 600%;
+}
+p{
+    font-size: 350%;
+}
+    
+
+
+
+main{}
+ /* Color Theme Swatches in Hex */
+ .Large-grunge-dark-texture,-great-for-texture-background-1-hex { color: #0A0B0D; }
+ .Large-grunge-dark-texture,-great-for-texture-background-2-hex { color: #2D3540; }
+ .Large-grunge-dark-texture,-great-for-texture-background-3-hex { color: #1C2026; }
+ .Large-grunge-dark-texture,-great-for-texture-background-4-hex { color: #A4A5A6; }
+ .Large-grunge-dark-texture,-great-for-texture-background-5-hex { color: #465059; }
+ 
+ /* Color Theme Swatches in RGBA */
+ .Large-grunge-dark-texture,-great-for-texture-background-1-rgba { color: rgba(9, 10, 12, 1); }
+ .Large-grunge-dark-texture,-great-for-texture-background-2-rgba { color: rgba(45, 53, 63, 1); }
+ .Large-grunge-dark-texture,-great-for-texture-background-3-rgba { color: rgba(27, 32, 38, 1); }
+ .Large-grunge-dark-texture,-great-for-texture-background-4-rgba { color: rgba(164, 164, 165, 1); }
+ .Large-grunge-dark-texture,-great-for-texture-background-5-rgba { color: rgba(69, 80, 89, 1); }
+ 
+ /* Color Theme Swatches in HSLA */
+ .Large-grunge-dark-texture,-great-for-texture-background-1-hsla { color: hsla(225, 12, 4, 1); }
+ .Large-grunge-dark-texture,-great-for-texture-background-2-hsla { color: hsla(213, 16, 21, 1); }
+ .Large-grunge-dark-texture,-great-for-texture-background-3-hsla { color: hsla(213, 16, 12, 1); }
+ .Large-grunge-dark-texture,-great-for-texture-background-4-hsla { color: hsla(213, 0, 64, 1); }
+ .Large-grunge-dark-texture,-great-for-texture-background-5-hsla { color: hsla(208, 12, 31, 1); }
+ ;
